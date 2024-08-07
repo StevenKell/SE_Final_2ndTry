@@ -1,2 +1,2 @@
-# SE_Final_2ndTry
-2nd attempt at creating a repo for the final project.
+# SE_Final_Project
+Final Project for the QBCC SE program.
